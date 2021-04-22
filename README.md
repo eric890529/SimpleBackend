@@ -3,7 +3,7 @@
 大二的資料庫課作業，使用XAMPP建立Apache網頁伺服器。達到新增、修改、刪除、更新功能
 
 簡介:一開始可以新增課程，接著能夠新增學生的資料，也能刪除學生資料，最後可以查詢現在有哪些學生及他們的個人資料與修了哪些課程。
-![image](https://user-images.githubusercontent.com/67775745/115105019-dbfe9880-9f8e-11eb-808e-004d55c38ad2.png)
+![image](https://user-images.githubusercontent.com/67775745/115746622-0d2ffc00-a3c7-11eb-8275-59091edbc284.png)
 ![image](https://user-images.githubusercontent.com/67775745/115105070-2253f780-9f8f-11eb-9ad1-9aad4e55da69.png)
 ![image](https://user-images.githubusercontent.com/67775745/115105134-81197100-9f8f-11eb-916f-533ded9ee8c0.png)
 ![image](https://user-images.githubusercontent.com/67775745/115105148-97273180-9f8f-11eb-9067-e5d5ff8a4729.png)
